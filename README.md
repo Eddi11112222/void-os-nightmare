@@ -42,10 +42,10 @@ Perfect for:
 
 ## ▶️ How to Use
 
-1. Download the latest release: [void-os_Release_1.zip](https://github.com/Eddi11112222/void-os-nightmare/tree/main/releases/tag/v2.0)
-2. Unzip and run `VOID_OS.exe`
+1. Download: [void-os_Release_1.zip](https://github.com/Eddi11112222/void-os-nightmare/tree/main/releases/tag/v1.0)
+2. Unzip and run `void_main.py`
 3. To prank deeper: run `autostart.bat` to enable autostart
-4. To escape: press **Shift + Ctrl + Q** (default)
+4. To escape: press **q** (default)
 
 ---
 
@@ -57,7 +57,7 @@ Want to customize or build your own version?
 - Python 3.x
 - `pygame`, `tkinter` (built-in), and `pyinstaller`
 
-### Build with:
+### Build exe with:
 ```bash
 pyinstaller --noconsole --onefile --icon=resources/icon.ico void_main.py
 
