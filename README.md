@@ -2,7 +2,7 @@
 
 A prank system from beyond the abyss.  
 VOID OS simulates creepy malware-like behavior without causing real harm.  
-It’s harmless… but terrifying.
+It’s harmless… but terrifying(not yet...).
 
 ---
 
