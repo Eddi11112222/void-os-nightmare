@@ -9,11 +9,12 @@ It’s harmless… but terrifying.
 ## 📦 Current Status
 
 ✅ **Available**: [void-os_Release_1.zip](https://github.com/Eddi11112222/void-os-nightmare/tree/main/releases/tag/v1.0)  
-  → **Version 1.0** – Terminal Nightmare  
+                 -[void-os_Release_1.zip](https://github.com/Eddi11112222/void-os-nightmare/tree/main/releases/tag/v2.0) 
+  → **Version 1.0** – Terminal Nightmare 
+  → **Version 2.0** – Boot Loop Edition
   → **Features**: Fullscreen terminal, auto-typing, creepy ambient sound, escape combo, optional autostart
 
 🕒 **Upcoming Releases**:
-- 🔜 **VOID OS Release 2** – “Boot Loop Edition”
 - 🔜 **VOID OS Release 3** – “Voice of the Void”
 - 🔜 **VOID OS Special** – “Jumpscare Protocol”
 
@@ -41,7 +42,7 @@ Perfect for:
 
 ## ▶️ How to Use
 
-1. Download the latest release: [void-os_Release_1.zip](https://github.com/Eddi11112222/void-os-nightmare/tree/main/releases/tag/v1.0)
+1. Download the latest release: [void-os_Release_1.zip](https://github.com/Eddi11112222/void-os-nightmare/tree/main/releases/tag/v2.0)
 2. Unzip and run `VOID_OS.exe`
 3. To prank deeper: run `autostart.bat` to enable autostart
 4. To escape: press **Shift + Ctrl + Q** (default)
