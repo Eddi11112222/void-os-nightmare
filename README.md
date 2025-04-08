@@ -9,10 +9,10 @@ It’s harmless… but terrifying(not yet...).
 ## 📦 Current Status
 
 ✅ **Available**: [void-os_Release_1.zip](https://github.com/Eddi11112222/void-os-nightmare/tree/main/releases/tag/v1.0)  
-                 -[void-os_Release_1.zip](https://github.com/Eddi11112222/void-os-nightmare/tree/main/releases/tag/v2.0) 
-  → **Version 1.0** – Terminal Nightmare 
+                 -[void-os_Release_2.zip](https://github.com/Eddi11112222/void-os-nightmare/tree/main/releases/tag/v2.0) 
+  → **Version 1.0** – Terminal Nightmare
+     → **Features**: Fullscreen terminal, auto-typing, creepy ambient sound, escape combo, optional autostart
   → **Version 2.0** – Boot Loop Edition
-  → **Features**: Fullscreen terminal, auto-typing, creepy ambient sound, escape combo, optional autostart
 
 🕒 **Upcoming Releases**:
 - 🔜 **VOID OS Release 3** – “Voice of the Void”
